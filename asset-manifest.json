@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/georgebdev.com/static/css/main.9b401b79.css",
-    "main.js": "/georgebdev.com/static/js/main.ad9244ed.js",
-    "static/js/787.bbe01249.chunk.js": "/georgebdev.com/static/js/787.bbe01249.chunk.js",
-    "index.html": "/georgebdev.com/index.html",
-    "main.9b401b79.css.map": "/georgebdev.com/static/css/main.9b401b79.css.map",
-    "main.ad9244ed.js.map": "/georgebdev.com/static/js/main.ad9244ed.js.map",
-    "787.bbe01249.chunk.js.map": "/georgebdev.com/static/js/787.bbe01249.chunk.js.map"
+    "main.css": "/static/css/main.9b401b79.css",
+    "main.js": "/static/js/main.7a6d2d6e.js",
+    "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
+    "index.html": "/index.html",
+    "main.9b401b79.css.map": "/static/css/main.9b401b79.css.map",
+    "main.7a6d2d6e.js.map": "/static/js/main.7a6d2d6e.js.map",
+    "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9b401b79.css",
-    "static/js/main.ad9244ed.js"
+    "static/js/main.7a6d2d6e.js"
   ]
 }
