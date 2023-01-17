@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/georgebdev.com/static/css/main.0fc78127.css",
+    "main.js": "/georgebdev.com/static/js/main.02cd8b47.js",
+    "static/js/787.bbe01249.chunk.js": "/georgebdev.com/static/js/787.bbe01249.chunk.js",
+    "index.html": "/georgebdev.com/index.html",
+    "main.0fc78127.css.map": "/georgebdev.com/static/css/main.0fc78127.css.map",
+    "main.02cd8b47.js.map": "/georgebdev.com/static/js/main.02cd8b47.js.map",
+    "787.bbe01249.chunk.js.map": "/georgebdev.com/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fc78127.css",
+    "static/js/main.02cd8b47.js"
+  ]
+}
